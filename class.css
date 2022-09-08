@@ -1,0 +1,11 @@
+body {
+    background-image: none !important;
+}
+
+#sTop {
+    display: none;
+}
+
+#Ptable {
+    border: none !important;
+}
